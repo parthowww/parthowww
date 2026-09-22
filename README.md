@@ -51,12 +51,34 @@ The kind of engineer who stress-tests models before trusting them, runs 100k Mon
 
 ---
 
-### GitHub Stats
+### Learning / Yet to Learn
+
+Things currently on the workbench or queued up next:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthowww&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthowww&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=6" width="40%" />
+  <img src="https://skillicons.dev/icons?i=rust,go,pytorch,docker,kubernetes,kafka,redis,postgres,aws,typescript&amp;theme=dark" />
 </p>
+
+| Area | What & Why |
+| :--- | :--- |
+| **Rust** | Low-latency systems programming — the natural next step after C++, especially for high-frequency execution engines |
+| **Go** | Concurrent backend services and lightweight microservice orchestration |
+| **PyTorch** | Deep learning for sequence modeling, transformer-based time-series forecasting, and RL policy networks |
+| **Reinforcement Learning** | Full RL policy gradient methods (PPO, SAC) beyond contextual bandits — proper MDP formulations for trading agents |
+| **Stochastic Calculus** | Ito's lemma, Brownian motion, Black-Scholes derivation from first principles — the mathematical bedrock under quant finance |
+| **Docker & Kubernetes** | Containerized deployment and orchestration for production ML systems and multi-agent pipelines |
+| **Kafka** | Event-driven streaming architecture for real-time market data ingestion pipelines |
+| **Redis** | In-memory caching and pub/sub for low-latency feature serving in live ML systems |
+| **PostgreSQL** | Advanced SQL: window functions, CTEs, indexing strategies, time-series extensions (TimescaleDB) |
+| **AWS / Cloud** | EC2, Lambda, S3, SageMaker — proper cloud-native ML infrastructure |
+| **TypeScript** | Type-safe full-stack development for production-grade web applications |
+| **Linear Algebra (deep)** | Eigendecomposition, SVD, matrix calculus — the machinery behind everything from PCA to attention |
+
+---
+
+### Fun Fact
+
+A neural network with enough layers can technically approximate any function — including the one that predicts whether your code will work before you run it. Researchers haven't trained that one yet. Probably because the training data doesn't exist.
 
 ---
 
