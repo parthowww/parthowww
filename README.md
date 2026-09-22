@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a1a2e,100:16213e&amp;height=220&amp;section=header&amp;text=Parthasarathi%20Adhikary&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Quantitative%20ML%20%26%20Systems%20Engineer&amp;descColor=8899aa&amp;descAlignY=60&amp;animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a1a2e,100:16213e&amp;height=220&amp;section=header&amp;text=Parthasarathi%20Adhikary&amp;fontSize=100&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Quantitative%20ML%20%26%20Systems%20Engineer&amp;descColor=8899aa&amp;descAlignY=60&amp;animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=15&amp;pause=1000&amp;color=7EB8F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thompson+Sampling+%7C+XGBoost+%7C+Monte+Carlo;Building+quant+systems+that+actually+hold+up;100k+paths+before+I+call+something+robust;Founding+Engineer+%40+Xenodochy;SRMIST+Chennai+%E2%80%94+B.Tech+CSE+%7C+CGPA+9.02" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=15&amp;pause=1000&amp;color=7EB8F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thompson+Sampling+%7C+XGBoost+%7C+Monte+Carlo;Building+quant+systems+that+actually+hold+up;100k+paths+before+I+call+something+robust;Founding+Engineer+%40+Xenodochy;SRMIST+Chennai+%E2%80%94+B.Tech+CSE+%7C+C" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/parthasarathiadhikary.in-0d0d0d?style=flat-square&logo=googlechrome&logoColor=white)](https://parthasarathiadhikary.in)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:parthasarathiadhikary2812@gmail.com)&nbsp;
