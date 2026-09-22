@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Parthasarathi%20Adhikary&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Quantitative%20ML%20%26%20Systems%20Engineer&descColor=8899aa&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a1a2e,100:16213e&amp;height=220&amp;section=header&amp;text=Parthasarathi%20Adhikary&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Quantitative%20ML%20%26%20Systems%20Engineer&amp;descColor=8899aa&amp;descAlignY=60&amp;animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=7EB8F7&center=true&vCenter=true&width=600&lines=Thompson+Sampling+%7C+XGBoost+%7C+Monte+Carlo;Building+quant+systems+that+actually+hold+up;100k+paths+before+I+call+something+robust;Founding+Engineer+%40+Xenodochy;SRMIST+Chennai+%E2%80%94+B.Tech+CSE+%7C+CGPA+9.02" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=15&amp;pause=1000&amp;color=7EB8F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thompson+Sampling+%7C+XGBoost+%7C+Monte+Carlo;Building+quant+systems+that+actually+hold+up;100k+paths+before+I+call+something+robust;Founding+Engineer+%40+Xenodochy;SRMIST+Chennai+%E2%80%94+B.Tech+CSE+%7C+CGPA+9.02" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/parthasarathiadhikary.in-0d0d0d?style=flat-square&logo=googlechrome&logoColor=white)](https://parthasarathiadhikary.in)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:parthasarathiadhikary2812@gmail.com)&nbsp;
@@ -29,7 +29,7 @@ The kind of engineer who stress-tests models before trusting them, runs 100k Mon
 ### Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,linux,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,linux,git,github,vscode&amp;theme=dark" />
 </p>
 
 | Domain | Stack |
@@ -54,8 +54,8 @@ The kind of engineer who stress-tests models before trusting them, runs 100k Mon
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthowww&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthowww&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthowww&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;count_private=true&amp;rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthowww&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=6" width="40%" />
 </p>
 
 ---
@@ -65,5 +65,5 @@ The kind of engineer who stress-tests models before trusting them, runs 100k Mon
 [parthasarathiadhikary.in](https://parthasarathiadhikary.in) · [parthasarathiadhikary2812@gmail.com](mailto:parthasarathiadhikary2812@gmail.com) · Kolkata / Chennai, India
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:1a1a2e,100:0d0d0d&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 </div>
