@@ -1,57 +1,57 @@
-# Parthasarathi Adhikary
+<div align="center">
 
-Quantitative ML & Systems Engineer. Founding-team engineer at **Xenodochy**.  
-Undergraduate in Computer Science Engineering at **SRM Institute of Science and Technology, Chennai** (CGPA 9.02+).  
-Alumnus of **Delhi Public School, Ruby Park, Kolkata**.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Parthasarathi%20Adhikary&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Quantitative%20ML%20%26%20Systems%20Engineer&descAlignY=58&descColor=a0a0b0&animation=fadeIn)
 
-[Portfolio](https://parthasarathiadhikary.in) • [Email](mailto:parthasarathiadhikary2812@gmail.com) • [GitHub](https://github.com/parthowww)
+[![Website](https://img.shields.io/badge/parthasarathiadhikary.in-000000?style=flat-square&logoColor=white)](https://parthasarathiadhikary.in)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:parthasarathiadhikary2812@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parthowww)
 
----
-
-### Focus & Engineering Principles
-
-I design and build quantitative machine learning pipelines, adaptive algorithmic decision systems, and high-performance software architectures. My work emphasizes:
-
-- **Quant Intelligence:** Combining behavioral heuristics with contextual multi-armed bandits (Thompson Sampling) and gradient-boosted ensembles calibrated on empirical data.
-- **Zero Leakage:** Strict cross-validation methodologies (`GroupKFold` splits, out-of-time folds) eliminating target leakage, lookahead bias, and train-test contamination.
-- **Stochastic Testing:** Monte Carlo simulations and stress-testing to verify drawdown distributions and distributional stability.
-- **Rapid Prototyping:** Autonomous agent orchestration, modular systems, and clean separation of concerns with minimal dependencies.
+</div>
 
 ---
 
-### Core Skills & Arsenal
+I build ML pipelines and quantitative systems for finance. Currently running Monte Carlo-backtested behavioral trading systems and leak-audited classification pipelines.  
+Founding-team engineer at **Xenodochy**. B.Tech CSE @ **SRMIST Chennai** (9.02 CGPA). Alumnus of **DPS Ruby Park, Kolkata**.
 
-| Domain | Technologies & Methods |
+The kind of engineer who stress-tests models before trusting them, runs 100k Monte Carlo paths before calling something "robust", and gets unreasonably happy when regret curves stay sub-linear.
+
+---
+
+### What I'm working on
+
+- **[NudgeVest](https://github.com/parthowww/nudgevest)** — Contextual Thompson Sampling bandit for behavioral micro-investing, with an XGBoost propensity prior and live sub-linear regret proof.
+- **Xenodochy** — Designing multi-agent orchestration pipelines and core infrastructure for a holding-company structure built for rapid horizontal venture expansion.
+- **StockPulse** — Time-series ML regression for multi-timeframe equity momentum detection.
+
+---
+
+### Core Skills
+
+| Domain | Stack |
 | :--- | :--- |
-| **Machine Learning & Bandits** | **Thompson Sampling**, **XGBoost**, LightGBM, scikit-learn, Multi-Armed Bandits, Bayesian Prior Updating, SMOTE, Ensemble Stacking |
-| **Languages** | **Python**, **C++**, C, **Node.js**, SQL, Bash / POSIX |
-| **Data & Scientific Computing** | NumPy, Pandas, Monte Carlo Simulation, GroupKFold CV, Time-Series Feature Extraction |
-| **Backend & Systems** | FastAPI, Express.js, REST APIs, Linux / POSIX Environments, Multi-Agent Orchestration |
-| **Developer Toolchain** | Git, GitHub, VS Code, Google AI Studio, POSIX Tooling |
+| **ML & Bandits** | Thompson Sampling, XGBoost, LightGBM, scikit-learn, SMOTE, Ensemble Stacking |
+| **Languages** | Python, C++, C, Node.js, SQL, Bash |
+| **Quant Finance** | Monte Carlo Simulation, CAGR Backtesting, Behavioral Finance, Risk Modeling |
+| **Backend & APIs** | FastAPI, Express.js, REST APIs |
+| **Toolchain** | Git, Linux, VS Code, Google AI Studio |
 
 ---
 
-### Featured Projects & Holdings
+### Engineering Principles
 
-#### [NudgeVest](https://github.com/parthowww/nudgevest)
-Behavioral micro-investing platform using **Contextual Thompson Sampling** across 105 discrete context buckets with an **XGBoost propensity model** acting as an offline behavioral prior.
-- Implements Beta-Bernoulli conjugate priors updating online upon user response.
-- Generates sub-linear cumulative regret curves verified against a parallel random-arm baseline.
-- Features a standalone local FastAPI web application with real-time Chart.js analytics.
-- **Stack:** Python, Thompson Sampling, XGBoost, NumPy, FastAPI, Chart.js
-
-#### [Xenodochy](https://parthasarathiadhikary.in/holdings.html)
-Founding-team engineer developing core operational systems, autonomous multi-agent pipelines for decision validation, and technical infrastructure for a multi-venture holding entity.
-
-#### [StockPulse](https://parthasarathiadhikary.in/holdings.html)
-Pattern-based ML regression model for detecting multi-timeframe equity trend momentum, volatility shifts, and order-flow dynamics.
-- **Stack:** Python, Time-Series Feature Extraction, Scikit-Learn, LightGBM
+**Zero Leakage.** `GroupKFold` splits, out-of-time folds, strict scaler segregation — no contamination, no false alphas.  
+**Stochastic Testing.** 100,000+ Monte Carlo iterations before a model leaves my machine.  
+**Quant Intelligence.** Bayesian prior updating, drawdown-penalizing loss functions, Thompson Sampling for exploration vs. exploitation.  
+**Rapid Prototyping.** Zero-to-one in under 48 hours without sacrificing correctness.
 
 ---
 
-### Contact & Verification
+### Contact
 
-- **Website:** [parthasarathiadhikary.in](https://parthasarathiadhikary.in)
-- **Primary Email:** [parthasarathiadhikary2812@gmail.com](mailto:parthasarathiadhikary2812@gmail.com)
-- **Secondary Email:** [parthasarathiadhikary2006@gmail.com](mailto:parthasarathiadhikary2006@gmail.com)
-- **Location:** Kolkata / Chennai, India
+[parthasarathiadhikary.in](https://parthasarathiadhikary.in) · [parthasarathiadhikary2812@gmail.com](mailto:parthasarathiadhikary2812@gmail.com) · Kolkata / Chennai, India
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer&animation=fadeIn)
+
+</div>
