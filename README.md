@@ -14,7 +14,7 @@
 
 I build ML pipelines and quantitative systems for finance — currently running Monte Carlo-backtested behavioral trading systems and leak-audited classification pipelines. Founding-team engineer at **Xenodochy**. B.Tech CSE @ **SRMIST Chennai** (9.02 CGPA). Alumnus of **DPS Ruby Park, Kolkata**.
 
-The kind of engineer who stress-tests models before trusting them, runs 100k Monte Carlo paths before calling something "robust", and gets unreasonably happy when regret curves stay sub-linear.
+
 
 ---
 
@@ -26,7 +26,7 @@ The kind of engineer who stress-tests models before trusting them, runs 100k Mon
 
 ---
 
-### Technical Skills
+### Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,linux,git,github,vscode&amp;theme=dark" />
@@ -51,7 +51,7 @@ The kind of engineer who stress-tests models before trusting them, runs 100k Mon
 
 ---
 
-### Learning / Yet to Learn
+### Yet to Learn
 
 Things currently on the workbench or queued up next:
 
