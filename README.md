@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a1a2e,100:16213e&amp;height=220&amp;section=header&amp;text=Parthasarathi%20Adhikary&amp;fontSize=100&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Quantitative%20ML%20%26%20Systems%20Engineer&amp;descColor=8899aa&amp;descAlignY=60&amp;animation=fadeIn" />
+# Parthasarathi Adhikary
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=15&amp;pause=1000&amp;color=7EB8F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thompson+Sampling+%7C+XGBoost+%7C+Monte+Carlo;Building+quant+systems+that+actually+hold+up;100k+paths+before+I+call+something+robust;Founding+Engineer+%40+Xenodochy;SRMIST+Chennai+%E2%80%94+B.Tech+CSE+%7C+C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=7EB8F7&center=true&vCenter=true&width=650&lines=Thompson+Sampling+%7C+XGBoost+%7C+Monte+Carlo;Building+quant+systems+that+actually+hold+up;100k+paths+before+I+call+something+robust;Founding+Engineer+%40+Xenodochy;SRMIST+Chennai+%E2%80%94+B.Tech+CSE+%7C+9.02+CGPA" alt="Typing SVG" />
+
+<br/>
 
 [![Website](https://img.shields.io/badge/parthasarathiadhikary.in-0d0d0d?style=flat-square&logo=googlechrome&logoColor=white)](https://parthasarathiadhikary.in)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:parthasarathiadhikary2812@gmail.com)&nbsp;
@@ -14,8 +16,6 @@
 
 I build ML pipelines and quantitative systems for finance — currently running Monte Carlo-backtested behavioral trading systems and leak-audited classification pipelines. Founding-team engineer at **Xenodochy**. B.Tech CSE @ **SRMIST Chennai** (9.02 CGPA). Alumnus of **DPS Ruby Park, Kolkata**.
 
-
-
 ---
 
 ### What I'm building
@@ -26,10 +26,10 @@ I build ML pipelines and quantitative systems for finance — currently running 
 
 ---
 
-### Learning
+### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,linux,git,github,vscode&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,nodejs,linux,git,github,vscode&theme=dark" />
 </p>
 
 | Domain | Stack |
@@ -53,10 +53,8 @@ I build ML pipelines and quantitative systems for finance — currently running 
 
 ### Yet to Learn
 
-Things currently on the workbench or queued up next:
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,pytorch,docker,kubernetes,kafka,redis,postgres,aws,typescript&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,go,pytorch,docker,kubernetes,kafka,redis,postgres,aws,typescript&theme=dark" />
 </p>
 
 | Area | What & Why |
@@ -85,7 +83,3 @@ A neural network with enough layers can technically approximate any function —
 ### Contact
 
 [parthasarathiadhikary.in](https://parthasarathiadhikary.in) · [parthasarathiadhikary2812@gmail.com](mailto:parthasarathiadhikary2812@gmail.com) · Kolkata / Chennai, India
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:1a1a2e,100:0d0d0d&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
-</div>
