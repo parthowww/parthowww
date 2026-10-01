@@ -26,6 +26,27 @@ I build ML pipelines and quantitative systems for finance — currently running 
 
 ---
 
+### Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthowww&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=30363d&title_color=7EB8F7&icon_color=7EB8F7&text_color=c9d1d9&hide_border=false&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthowww&theme=dark&background=0d0d0d&border=30363d&ring=7EB8F7&fire=7EB8F7&currStreakLabel=7EB8F7" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthowww&layout=compact&theme=dark&bg_color=0d0d0d&border_color=30363d&title_color=7EB8F7&text_color=c9d1d9&hide=html,css,markdown&langs_count=6" />
+</p>
+
+---
+
 ### Stack
 
 <p align="center">
