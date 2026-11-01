@@ -20,9 +20,15 @@ I build ML pipelines and quantitative systems for finance — currently running 
 
 ### What I'm building
 
+- **[LeakLens](https://github.com/parthowww/leaklens)** — Financial leak intelligence SaaS for small businesses. 4 deterministic audit rules, CSV upload wizard, downloadable reports, Supabase RLS isolation. Built with Next.js + TypeScript.
+- **[Aerarium](https://github.com/parthowww/aerarium)** — Sovereign spend & runway treasury ledger for tech startups. Audits SaaS contracts, detects dormant seat licenses, calculates cash runway extensions in real time. Node.js + SQLite.
+- **[Zentropy](https://github.com/parthowww/zentropy)** — Zero-entropy microservice telemetry & system order platform. Real-time p99 latency tracking, uptime equilibrium, and incident lifecycle management. Node.js + SQLite.
 - **[NudgeVest](https://github.com/parthowww/nudgevest)** — Contextual Thompson Sampling bandit for behavioral micro-investing, with an XGBoost propensity prior and live sub-linear regret proof.
+- **[Safara](https://github.com/parthowww/dahsboard.safara)** — Decentralized tourist safety platform (SIH 2026). DID-based identity, geo-fencing alerts, blockchain audit trail, PWA operator dashboard.
+- **[ElderlyCarerAI](https://github.com/parthowww/elderlycareai)** — Accessible medication reminders, AI voice assistance, and fall-alert workflows for elderly care.
+- **[Spending-Leak Agent](https://github.com/parthowww/spending-leak-agent)** — Explainable recurring payment & subscription waste intelligence. FastAPI + SQLite + Docker.
+- **[Campus Companion](https://github.com/parthowww/campus_companion)** — Student command center with attendance margin analytics, grade forecasting, and scheduling. Python + Streamlit.
 - **Xenodochy** — Multi-agent orchestration pipelines and core infrastructure for a holding-company structure built for rapid horizontal venture expansion.
-- **StockPulse** — Time-series ML regression for multi-timeframe equity momentum detection.
 
 ---
 
@@ -56,10 +62,11 @@ I build ML pipelines and quantitative systems for finance — currently running 
 | Domain | Stack |
 | :--- | :--- |
 | **ML & Bandits** | Thompson Sampling, XGBoost, LightGBM, scikit-learn, SMOTE, Ensemble Stacking |
-| **Languages** | Python, C++, C, Node.js, SQL, Bash |
+| **Languages** | Python, C++, C, Node.js, TypeScript, SQL, Bash |
 | **Quant Finance** | Monte Carlo Simulation, CAGR Backtesting, Behavioral Finance, Risk Modeling |
 | **Backend & APIs** | FastAPI, Express.js, REST APIs |
-| **Toolchain** | Git, Linux, VS Code, Google AI Studio |
+| **Web & SaaS** | Next.js, Supabase, Tailwind CSS, Streamlit |
+| **Toolchain** | Git, Linux, Docker, VS Code, Google AI Studio |
 
 ---
 
@@ -90,7 +97,6 @@ I build ML pipelines and quantitative systems for finance — currently running 
 | **Redis** | In-memory caching and pub/sub for low-latency feature serving in live ML systems |
 | **PostgreSQL** | Advanced SQL: window functions, CTEs, indexing strategies, time-series extensions (TimescaleDB) |
 | **AWS / Cloud** | EC2, Lambda, S3, SageMaker — proper cloud-native ML infrastructure |
-| **TypeScript** | Type-safe full-stack development for production-grade web applications |
 | **Linear Algebra (deep)** | Eigendecomposition, SVD, matrix calculus — the machinery behind everything from PCA to attention |
 
 ---
