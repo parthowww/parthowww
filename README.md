@@ -79,7 +79,7 @@ I build ML pipelines and quantitative systems for finance — currently running 
 
 ---
 
-### Yet to Learn
+### learning/Yet to Learn
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,go,pytorch,docker,kubernetes,kafka,redis,postgres,aws,typescript&theme=dark" />
