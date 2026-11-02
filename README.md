@@ -39,19 +39,6 @@ I build ML pipelines and quantitative systems for finance — currently running 
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthowww&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=30363d&title_color=7EB8F7&icon_color=7EB8F7&text_color=c9d1d9&hide_border=false&count_private=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthowww&theme=dark&background=0d0d0d&border=30363d&ring=7EB8F7&fire=7EB8F7&currStreakLabel=7EB8F7" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthowww&layout=compact&theme=dark&bg_color=0d0d0d&border_color=30363d&title_color=7EB8F7&text_color=c9d1d9&hide=html,css,markdown&langs_count=6" />
-</p>
-
----
 
 ### Stack
 
@@ -109,4 +96,4 @@ A neural network with enough layers can technically approximate any function —
 
 ### Contact
 
-[parthasarathiadhikary.in](https://parthasarathiadhikary.in) · [parthasarathiadhikary2812@gmail.com](mailto:parthasarathiadhikary2812@gmail.com) · Kolkata / Chennai, India
+[parthasarathiadhikary.in](https://parthasarathiadhikary.in) · [admin@parthasarathiadhikary.in](mailto:admin@parthasarathiadhikary.in) · Kolkata / Chennai, India
